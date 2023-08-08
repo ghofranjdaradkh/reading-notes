@@ -127,3 +127,7 @@ Dropping tables
   DROP TABLE statement is used to remove an existing table and all its data from the database.
 </pre>
 ![Alt text](assests/sql18.PNG)
+------------------------------------------------------------------------------------------------------------------------------
+## Things I want to know more about
+
+[Link to readmeFile](READMEfile.md)
