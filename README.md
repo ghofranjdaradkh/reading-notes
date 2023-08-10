@@ -130,6 +130,9 @@ Dropping tables
 ------------------------------------------------------------------------------------------------------------------------------
 ## Things I want to know more about
 
+# class 1 
+
+[Link to readmeFile](READMEfile1.md)
   # class2
 
 [Link to readmeFile](READMEfile.md)
