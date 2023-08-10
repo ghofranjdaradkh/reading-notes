@@ -135,4 +135,4 @@ Dropping tables
 [Link to readmeFile](READMEfile.md)
 
 # class 3
-[Link to readmeFile](READMEfile3.md.md)
+[Link to readmeFile](READMEfile3.md)
