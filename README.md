@@ -16,6 +16,10 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 
 [Link to README](./ReadMEReng.md)
 
+## The Growth Mindset 
+
+
+[Link to README](./READMEmidest.md)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
