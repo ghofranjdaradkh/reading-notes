@@ -14,7 +14,7 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 
 | Subjects      | Description | Link |
 | ------------- | ----------- | ---- |
-| Data Structure        | Data structure :data organization , management and storage format that enable efficient access and modification. | [Link to README](READMEDATA.md) |
+| Data Structure        | Data structure :data organization , management and storage format that enable efficient access and modification.Data structures in Java optimize data storage and access, improving efficiency and scalability of algorithms, leading to faster and well-organized code. | [Link to README](READMEDATA.md) |
 | SQL           | Relational databases are organized data storage systems using tables to store information with relationships between them. SQL (Structured Query Language) is a specialized language used to manage and interact with relational databases. We can manipulate data like insert, update, delete, and select. | [Link to README](./READMESSQL.md) |
 | Terminal      | The terminal is a text-based interface that provides a way for users to interact with the operating system through commands. It allows users to perform various tasks, such as navigating directories (using commands like cd), executing programs, manipulating files (using commands like mkdir to create directories, rmdir to remove directories, mv to move or rename files, and ls to list directory contents), and much more. | [Link to README](./READMETR.md) |
 
