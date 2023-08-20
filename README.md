@@ -63,3 +63,9 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 # class 5 
 
 [Link to readmeFile](./README5.md)
+
+-----------------------------------------------------------------------------------------------------------------
+# class 6
+
+[Link to readmeFile](./README6.md)
+
