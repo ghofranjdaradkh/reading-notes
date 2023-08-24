@@ -36,11 +36,9 @@ The client acknowledges the server's FIN with another ACK packet.
 
 ## True or False: When making an HTTP request, you MUST follow any redirect returned by the request. Back up your answer.
 
-
-
-
 False. While HTTP requests generally follow redirects automatically (unless disabled), it's not mandatory to follow redirects. 
 The decision to follow a redirect is often based on the configuration of the HTTP client or the specific needs of the application.
+
 ---------------------------------------------------------------------------------------
 
  ## Which built-in Java class can be used to perform an HTTP request?
