@@ -46,3 +46,6 @@ Q6. How is the size of an array determined in Java?
 <pre>
 when creating the array you must specify its size >>using new dataType[arraySize].
 </pre>
+
+1.
+3

@@ -77,3 +77,8 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 
 [Link to readmeFile](./README6.md)
 
+-----------------------------------------------------
+
+## class 7 
+[Link to readmeFile](./readme8.md)
+
