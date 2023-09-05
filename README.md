@@ -90,3 +90,8 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 ------------------------------------------------------------------
 # class 11 : 
  [README11.md](README11.md)
+ 
+---------------------------------------------
+
+# class 12:
+[README12.md](README12.md)
