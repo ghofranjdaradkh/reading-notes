@@ -114,3 +114,7 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 
 [README16.md](README16.md)
 
+----------------------------------------------
+# class 17 
+
+[read17.md](read17.md)
