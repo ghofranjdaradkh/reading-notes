@@ -124,3 +124,8 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 # class 18
 
 [readme18.md](readme18.md)
+
+----------------------------------------------
+# class 19
+
+[readme19.md](readme19.md)
