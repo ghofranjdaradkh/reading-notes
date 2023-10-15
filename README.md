@@ -129,3 +129,9 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 # class 19
 
 [readme19.md](readme19.md)
+
+
+==============================================
+------------------------------------------------
+# class 26 
+[README26.md](README26.md)
