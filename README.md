@@ -140,3 +140,7 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 ------------------------------------------------
 # class 27
 [readme27.md](readme27.md)
+
+------------------------------------------------
+# class HashTable
+[RAEDHASHTABLE.md](RAEDHASHTABLE.md)
