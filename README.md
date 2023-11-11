@@ -152,4 +152,7 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 # class 32 :
 [readme32.md](readme32.md)
 
+-------------------------------------------
+# class 33 :
 
+[readme33.md](readme33.md)
