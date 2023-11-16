@@ -161,3 +161,8 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 # class 3 :
 
 [readme34.md](readme34.md)
+
+-------------------------------------------
+# class 35 :
+
+[readme35.md](readme35.md)
