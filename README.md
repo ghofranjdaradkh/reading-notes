@@ -186,3 +186,8 @@ Link to repository:  [https://ghofranjdaradkh.github.io/reading-notes/]
 # class 39 :
 
 [readme39.md](readme39.md)
+-----------------------
+# class 41 :
+
+[readme41.md](readme41.md)
+--------------------------------------------
